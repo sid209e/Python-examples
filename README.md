@@ -6,9 +6,9 @@ Welcome to the Python Examples for Practice repository! This collection contains
 
 To get started, clone this repository to your local machine:
 
-'''bash
+```bash
 git clone https://github.com/sid209e/python-examples.git
-'''
+```
 
 
 ## Repository Structure
