@@ -1,6 +1,6 @@
 # Python Examples for Practice
 
-Welcome to the Python Examples for Practice repository! This collection contains a variety of Python code examples that can help you practice and improve your programming skills. The repository will be regularly updated with new examples.
+This collection contains a variety of Python code examples that can help you practice and improve your programming skills. The repository will be regularly updated with new examples.
 
 ## Getting Started
 
